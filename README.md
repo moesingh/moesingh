@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Javascript, React, React Native, Python, Flask
 - 🌱 I’m currently learning (do we ever stop learning ??)
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me moe@malton.org
+- 📫 How to reach me at https://mohanjit.com
 
 <!---
 moesingh/moesingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
